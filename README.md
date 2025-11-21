@@ -104,6 +104,5 @@ I leverage these tools daily to deliver robust solutions:
 <div align="center">
 
 ### 📈 **Open to Opportunities**
-**Status:** Available for full-time roles and freelance projects
 
 </div>
