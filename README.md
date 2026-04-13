@@ -3,9 +3,9 @@
 
 ---
 
-## 🌟 Hello World! Passionate MERN Developer with 1.5+ Years Experience 👋
+## 🌟 Hello World! Passionate MERN Developer with 1.8+ Years Experience 👋
 
-I am a self-driven, results-oriented **MERN Stack Developer** with **over 1.5 years of professional experience** building scalable, secure, and high-performance web applications. I am proficient in front-end and back-end technologies, REST APIs, and deploying full-stack solutions.
+I am a self-driven, results-oriented **MERN Stack Developer** with **over 1.8 years of professional experience** building scalable, secure, and high-performance web applications. I am proficient in front-end and back-end technologies, REST APIs, and deploying full-stack solutions.
 
 My expertise centers on full-stack development using **React, Node.js, and MongoDB**, complemented by strong skills in state management and modern deployment workflows using **AWS Amplify CI/CD**. I excel at problem-solving, thrive in collaborative team environments, and have a proven track record in cross-technology collaboration.
 
