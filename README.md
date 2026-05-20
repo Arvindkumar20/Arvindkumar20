@@ -1,11 +1,10 @@
 # MERN Stack Architect | Full-Stack Developer
 <p align="center">
   <img 
-   src="https://raw.githubusercontent.com/Arvindkumar20/main/WhatsApp Image 2026-04-08 at 4.47.06 PM.jpeg"
-    width="140"
-    height="140"
-    style="border-radius: 50%; object-fit: cover; border: 4px solid #0f6e3f;"
+    src="https://raw.githubusercontent.com/Arvindkumar20/Arvindkumar20/main/arvind.jpg"
     alt="Arvind Kumar"
+    width="160"
+    height="160"
   />
 </p>
 
@@ -16,7 +15,7 @@
 </h3>
 
 <p align="center">
-  Passionate about building scalable SaaS platforms, high-performance web applications, and modern user experiences.
+  Building scalable SaaS platforms, modern web applications, and production-ready full stack solutions.
 </p>
 
 <p align="center">
@@ -36,8 +35,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-0f6e3f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
-
 ---
 
 ##  Hello World! Passionate MERN Developer with 1.9+ Years Experience 
