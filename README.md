@@ -1,5 +1,42 @@
 # MERN Stack Architect | Full-Stack Developer
-### 👤**Arvind Kumar**
+<p align="center">
+  <img 
+    src="YOUR_PROFILE_IMAGE_LINK"
+    width="140"
+    height="140"
+    style="border-radius: 50%; object-fit: cover; border: 4px solid #0f6e3f;"
+    alt="Arvind Kumar"
+  />
+</p>
+
+<h1 align="center">Arvind Kumar</h1>
+
+<h3 align="center">
+  Full Stack MERN Developer | React.js | Node.js | MongoDB | AWS
+</h3>
+
+<p align="center">
+  Passionate about building scalable SaaS platforms, high-performance web applications, and modern user experiences.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arvind-kumar-1466812b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Arvindkumar20">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:arvindkumar8960905167@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://taupe-valkyrie-2bd8c6.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0f6e3f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
