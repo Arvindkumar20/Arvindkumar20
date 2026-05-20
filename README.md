@@ -1,7 +1,7 @@
 # MERN Stack Architect | Full-Stack Developer
 <p align="center">
   <img 
-   src="https://raw.githubusercontent.com/Arvindkumar20/main/profile.png"
+   src="https://raw.githubusercontent.com/Arvindkumar20/main/WhatsApp Image 2026-04-08 at 4.47.06 PM.jpeg"
     width="140"
     height="140"
     style="border-radius: 50%; object-fit: cover; border: 4px solid #0f6e3f;"
