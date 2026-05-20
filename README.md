@@ -1,7 +1,7 @@
 # MERN Stack Architect | Full-Stack Developer
 <p align="center">
   <img 
-    src="YOUR_PROFILE_IMAGE_LINK"
+    src="https://raw.githubusercontent.com/Arvindkumar20/Arvindkumar20/main/profile.png"
     width="140"
     height="140"
     style="border-radius: 50%; object-fit: cover; border: 4px solid #0f6e3f;"
