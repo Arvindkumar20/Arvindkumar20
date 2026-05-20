@@ -96,10 +96,13 @@ I leverage these tools daily to deliver robust solutions:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-kumar-1466812b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvindkumar20)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindkumar8960905167@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arvind-kumar-1466812b1/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Arvindkumar20)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arvindkumar8960905167@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f6e3f?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://taupe-valkyrie-2bd8c6.netlify.app)
 
 </div>
 
