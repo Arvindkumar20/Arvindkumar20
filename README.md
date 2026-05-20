@@ -1,54 +1,121 @@
-🚀 Arvind Kumar
-MERN Stack Architect | Full-Stack Developer | DevOps Enthusiast
-🧠 1.9+ years of building production-grade apps | Docker | CI/CD | AWS | VPS | Domain Wrangler
+# MERN Stack Architect | Full-Stack Developer
+### 👤**Arvind Kumar**
 
-🔧 Tech Arsenal
-Frontend	Backend	DevOps & Cloud
-⚛️ React • Redux • Context API	🟢 Node.js • Express.js	🐳 Docker • GitHub Actions
-🎨 Tailwind CSS • Bootstrap	🍃 MongoDB • REST APIs	☁️ AWS (Amplify, EC2) • VPS
-📱 Responsive • JWT • Axios	🔐 Auth (Google, Razorpay)	🌐 Domain fixing • SSL • DNS
-💼 Experience Highlights
-📰 MyPatrakar.com – Frontend Lead / Full Stack
-HendTech IT Solutions | Aug 2024 – Present
+---
 
-Led frontend for a SaaS media platform – 10k+ content creators
+##  Hello World! Passionate MERN Developer with 1.9+ Years Experience 
 
-React + Tailwind + Razorpay + Google Auth
+I am a self-driven, results-oriented **MERN Stack Developer** with **over 1.9 years of professional experience** building scalable, secure, and high-performance web applications. I am proficient in front-end and back-end technologies, REST APIs, and deploying full-stack solutions.
 
-CI/CD via AWS Amplify | Domain & SSL management
+My expertise centers on full-stack development using **React, Node.js, and MongoDB**, complemented by strong skills in state management and modern deployment workflows using **AWS Amplify CI/CD**. I excel at problem-solving, thrive in collaborative team environments, and have a proven track record in cross-technology collaboration.
 
-🛒 E‑commerce & Product Management
-MERN Stack Developer
+---
 
-Full‑stack stores with cart, orders, payment gateway
+##  Core Technology Stack
 
-Social login, role‑based access, MongoDB indexing
+I leverage these tools daily to deliver robust solutions:
 
-🐳 Deployment & DevOps
-Dockerized MERN apps for dev/prod parity
-
-Automated CI/CD (GitHub Actions → VPS/AWS)
-
-Managed 5+ live domains – DNS, reverse proxy, SSL renewal
-
-💻 Frontend Freelance (1 mo each)
-Cypher Byte Technologies | Bishwas's Technology
-
-UI components, responsive design, debugging
-
-📈 GitHub Pulse
 <div align="center">
-📊 Stats	🧠 Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=Arvindkumar20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="380"/>	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindkumar20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="320"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- DevOps / Deployment -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/VPS-1E293B?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Domain_Management-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL-25A162?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-🌐 Let’s Connect
-📧 arvindkumar8960905167@gmail.com
-📞 +91 8960905167
-📍 Lucknow, India
 
-https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white
+---
 
-💡 “Ship clean code, automate everything, and never trust manual deployment.”
+## Featured Projects & Professional Experience
 
+###  MyPatrakar.com - SaaS Content Management Platform
+**Role:** Frontend Team Lead & Full Stack Developer at HendTech IT Solutions  
+**Duration:** August 2024 - Present
+
+- Led frontend development for a scalable SaaS media platform serving content creators and publishers
+- Developed responsive, production-ready React components with Tailwind CSS
+- Implemented dynamic routing, form validation, and state management using React Context and Axios
+- Integrated payment gateway (Razorpay) and Google Authentication
+- Coordinated with cross-functional teams to deliver user dashboards, news publishing modules, and admin panels
+
+###  E-commerce & Product Management Solutions
+**Role:** MERN Stack Developer
+
+- Built full-stack e-commerce and product management solutions using MERN stack
+- Implemented secure payment gateway integration and social login functionality
+- Developed responsive UIs with modern design patterns and optimized performance
+- Created RESTful APIs and managed database architecture with MongoDB
+
+### Frontend Development Engagements
+
+**Cypher Byte Technologies** (1 Month)
+- Built and optimized UI components using React.js and Tailwind CSS
+- Focused on responsive layouts and clean code practices
+
+**Bishwas's Technology** (1 Month)
+- Gained hands-on experience with real-world frontend development
+- Enhanced skills in debugging, component structuring, and UX design
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+| Overall Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Arvindkumar20&show_icons=true&theme=radical&hide_border=true" height="165" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindkumar20&layout=compact&theme=radical&hide_border=true" height="165" /> |
+
+</div>
+
+### Contribution Activity
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Arvindkumar20&theme=react-dark&hide_border=true&area=true" />
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-kumar-1466812b1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvindkumar20)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindkumar8960905167@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+**Location:** Lucknow, Uttar Pradesh, India  
+**Phone:** +91 8960905167
+
+---
+
+> **Let's build something scalable and robust together!**
+>
+> **If you appreciate my work, please consider starring my repositories!**
+
+---
+
+<div align="center">
+
+### **Open to Opportunities**
+
+</div>
