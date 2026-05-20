@@ -1,86 +1,54 @@
-⚡ MERN Stack Architect | Full-Stack Developer
-👤 Arvind Kumar
-🌟 Hello World! Passionate MERN Developer with 1.9+ Years Experience 👋
-I am a self-driven, results-oriented MERN Stack Developer with over 1.9 years of professional experience building scalable, secure, and high-performance web applications. I am proficient in front-end and back-end technologies, REST APIs, and deploying full-stack solutions.
+🚀 Arvind Kumar
+MERN Stack Architect | Full-Stack Developer | DevOps Enthusiast
+🧠 1.9+ years of building production-grade apps | Docker | CI/CD | AWS | VPS | Domain Wrangler
 
-My expertise centers on full-stack development using React, Node.js, and MongoDB, complemented by strong skills in state management, Docker containerization, CI/CD pipelines, and modern deployment workflows across AWS, VPS, and custom domain configurations. I excel at problem-solving, thrive in collaborative team environments, and have a proven track record in cross-technology collaboration.
+🔧 Tech Arsenal
+Frontend	Backend	DevOps & Cloud
+⚛️ React • Redux • Context API	🟢 Node.js • Express.js	🐳 Docker • GitHub Actions
+🎨 Tailwind CSS • Bootstrap	🍃 MongoDB • REST APIs	☁️ AWS (Amplify, EC2) • VPS
+📱 Responsive • JWT • Axios	🔐 Auth (Google, Razorpay)	🌐 Domain fixing • SSL • DNS
+💼 Experience Highlights
+📰 MyPatrakar.com – Frontend Lead / Full Stack
+HendTech IT Solutions | Aug 2024 – Present
 
-🛠️ Core Technology Stack
-I leverage these tools daily to deliver robust solutions:
+Led frontend for a SaaS media platform – 10k+ content creators
 
-<div align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/VPS-00A8E0?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></div>
-💼 Featured Projects & Professional Experience
-📰 MyPatrakar.com - SaaS Content Management Platform
-Role: Frontend Team Lead & Full Stack Developer at HendTech IT Solutions
-Duration: August 2024 - Present
+React + Tailwind + Razorpay + Google Auth
 
-Led frontend development for a scalable SaaS media platform serving content creators and publishers
+CI/CD via AWS Amplify | Domain & SSL management
 
-Developed responsive, production-ready React components with Tailwind CSS
+🛒 E‑commerce & Product Management
+MERN Stack Developer
 
-Implemented dynamic routing, form validation, and state management using React Context and Axios
+Full‑stack stores with cart, orders, payment gateway
 
-Integrated payment gateway (Razorpay) and Google Authentication
+Social login, role‑based access, MongoDB indexing
 
-Coordinated with cross-functional teams to deliver user dashboards, news publishing modules, and admin panels
+🐳 Deployment & DevOps
+Dockerized MERN apps for dev/prod parity
 
-🛒 E-commerce & Product Management Solutions
-Role: MERN Stack Developer
+Automated CI/CD (GitHub Actions → VPS/AWS)
 
-Built full-stack e-commerce and product management solutions using MERN stack
+Managed 5+ live domains – DNS, reverse proxy, SSL renewal
 
-Implemented secure payment gateway integration and social login functionality
+💻 Frontend Freelance (1 mo each)
+Cypher Byte Technologies | Bishwas's Technology
 
-Developed responsive UIs with modern design patterns and optimized performance
+UI components, responsive design, debugging
 
-Created RESTful APIs and managed database architecture with MongoDB
-
-🐳 Deployment & DevOps Expertise
-Dockerized applications for consistent development and production environments
-
-Built CI/CD pipelines using GitHub Actions / AWS Amplify for automated testing and deployment
-
-Deployed full-stack applications on AWS EC2, VPS (DigitalOcean/Linode), and shared hosting
-
-Managed domain name configuration, SSL certificates, DNS records, and server security
-
-Automated deployment scripts and environment variable management across staging/production
-
-💻 Frontend Development Engagements
-Cypher Byte Technologies (1 Month)
-
-Built and optimized UI components using React.js and Tailwind CSS
-
-Focused on responsive layouts and clean code practices
-
-Bishwas's Technology (1 Month)
-
-Gained hands-on experience with real-world frontend development
-
-Enhanced skills in debugging, component structuring, and UX design
-
-📈 GitHub Analytics
+📈 GitHub Pulse
 <div align="center">
-Overall Stats	Top Languages
-<img src="https://github-readme-stats.vercel.app/api?username=Arvindkumar20&show_icons=true&theme=radical&hide_border=true" height="165" />	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindkumar20&layout=compact&theme=radical&hide_border=true" height="165" />
+📊 Stats	🧠 Top Languages
+<img src="https://github-readme-stats.vercel.app/api?username=Arvindkumar20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="380"/>	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindkumar20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="320"/>
 </div>
-📊 Contribution Activity
-<img src="https://activity-graph.herokuapp.com/graph?username=Arvindkumar20&theme=react-dark&hide_border=true&area=true" />
-📬 Connect With Me
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+🌐 Let’s Connect
+📧 arvindkumar8960905167@gmail.com
+📞 +91 8960905167
+📍 Lucknow, India
 
-</div>
-📍 Location: Lucknow, Uttar Pradesh, India
-📱 Phone: +91 8960905167
+https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white
 
-🚀 Let's build something scalable and robust together!
+💡 “Ship clean code, automate everything, and never trust manual deployment.”
 
-⭐ If you appreciate my work, please consider starring my repositories!
-
-<div align="center">
-📈 Open to Opportunities
-</div>
